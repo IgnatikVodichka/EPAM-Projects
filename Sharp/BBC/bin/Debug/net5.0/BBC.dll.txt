@@ -1,0 +1,5 @@
+BBC.Tests.Part1Tests.CheckThatFirstArticleAfterSearchIsCorrect
+BBC.Tests.Part1Tests.CheckThatTheFirstArticleInNewsIsCorrect
+BBC.Tests.Part1Tests.CheckThatTheSecondaryArticlesInNewsAreCorrect
+BBC.Tests.Part2Tests.GoToFillInAndSubmitCoronaVirusForm
+BBC.Tests.Part3Tests.CheckThatTeamsAndScoresAreCorrect
