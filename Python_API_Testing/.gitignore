@@ -1,5 +1,7 @@
 .idea
 .pytest_cache
 __pycache__/
-test_results/*.json
-logs/*.logs
+!test_results/
+test_results/*
+!logs/
+logs/*
