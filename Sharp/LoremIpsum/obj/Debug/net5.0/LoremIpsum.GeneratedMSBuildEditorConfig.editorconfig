@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = LoremIpsum
-build_property.ProjectDir = /Users/ignat/Desktop/EPAM Project/Sharp/LoremIpsum/
+build_property.ProjectDir = /Users/ignat/Documents/GitHub/EPAM-Projects-QA/Sharp/LoremIpsum/
